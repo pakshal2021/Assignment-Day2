@@ -108,3 +108,6 @@ dist
 .exe
 
 .jar
+
+# doing .html file in gitignore
+.html
