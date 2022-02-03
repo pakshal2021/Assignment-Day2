@@ -1,7 +1,4 @@
-<<<<<<< Updated upstream
 change in this file from remote
-=======
 I am working on this file but there is isuue in other file so i need to 
 fix that bug first and i dont want to commit this file so i put this file 
 into stash.
->>>>>>> Stashed changes
