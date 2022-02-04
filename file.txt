@@ -2,3 +2,4 @@ hello world
 I change in chase branch and commit first time
 i change in chase branch and commit second time
 also chnage in this branch
+i change in the both the branch in same line for conflict
