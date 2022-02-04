@@ -109,5 +109,4 @@ dist
 
 .jar
 
-# doing .html file in gitignore
-.html
+*.txt
